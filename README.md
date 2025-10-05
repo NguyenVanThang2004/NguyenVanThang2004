@@ -56,4 +56,4 @@ Supports product management, authentication, order tracking, and VNPay integrati
 - **Email:** [nguyenvanthang2315@gmail.com](mailto:nguyenvanthang2315@gmail.com)  
 - **Location:** 546 Tran Cung, Hanoi, Vietnam  
 - **GitHub:** [@NguyenVanThang2004](https://github.com/NguyenVanThang2004)  
-- **Phone:** +84 860 782 856
+- **Phone:** +84 869 782 856
